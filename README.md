@@ -10,4 +10,5 @@ Complete project explained on YouTube: https://www.youtube.com/watch?v=VFIuIjswM
 MySQL
 
 Schema- Music Store Database
+
 ![MusicDatabaseSchema](https://github.com/neha965/SQL_Music_Store_Analysis/assets/66843659/7a3a9498-5318-4b18-817a-8a3f346814eb)
